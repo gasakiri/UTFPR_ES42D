@@ -1,7 +1,10 @@
 #!/bin/bash
 
-function space() 
-{
+# Cria o arquivo segredo.txt
+# Define permissões de leitura e execução para o grupo e nenhuma para outros
+# Exibe as permissões
+
+space() {
 	printf "\n\n"
 }
 

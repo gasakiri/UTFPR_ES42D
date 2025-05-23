@@ -1,5 +1,10 @@
 #!/bin/bash
 
+# Lista o conteúdo do diretório /etc
+# Cria um diretório projetos
+# Cria o arquivo exemplo.txt dentro de projetos
+# Copia o arquivo para /tmp
+
 echo "Listando conteúdo do diretório /etc"
 echo ""
 
